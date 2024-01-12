@@ -22,8 +22,7 @@ html{
 
 #main{
     width: 80%;
-    font-family: Arial;
-    font-size: 30px;
+    padding: 40px;
 }
 
 
@@ -38,6 +37,10 @@ body{
     margin: 0;
 }
 
+
+h1{
+    font-family:Arial;
+}
 h3{
     font-family: Arial;
 }
