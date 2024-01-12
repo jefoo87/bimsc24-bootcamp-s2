@@ -16,12 +16,12 @@ html{
 
 
 #sidebar{
-    width: 30%;
+    width: 20%;
 }
 
 
-#title{
-    width: 70%;
+#main{
+    width: 80%;
     font-family: Arial;
     font-size: 30px;
 }
@@ -36,4 +36,13 @@ html{
 
 body{
     margin: 0;
+}
+
+h3{
+    font-family: Arial;
+}
+
+p{
+    font-family:Arial;
+    font-size: 15px;
 }
