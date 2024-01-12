@@ -1,0 +1,39 @@
+html{
+    background-color: white;
+    color: rgb(235, 53, 53);
+}
+
+
+#navbar{
+    height: 50px;
+}
+
+
+#flex{
+    display: flex;
+    height: calc(100vh - 52px);
+}
+
+
+#sidebar{
+    width: 30%;
+}
+
+
+#title{
+    width: 70%;
+    font-family: Arial;
+    font-size: 30px;
+}
+
+
+.container{
+    border-style:double;
+    border-color: rgb(255, 222, 222);
+    border-width: 2px;
+}
+
+
+body{
+    margin: 0;
+}
